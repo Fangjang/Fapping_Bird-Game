@@ -1,2 +1,2 @@
-# Fapping-Bird-with-SFML
+# Fapping-Bird
 A Clone of Flappy Bird made in C++
